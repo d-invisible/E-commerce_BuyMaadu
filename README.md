@@ -1,3 +1,3 @@
 # E-commerce_BuyMaadu
 
-** Frontend ** HTML, CSS, JS 
+**Frontend** HTML, CSS, JS 
